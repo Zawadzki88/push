@@ -11,3 +11,4 @@ description = "A secure, stable, and lightweight alternative to OpenClaw and Her
 # keep defaults in sync with the manifest
 # guard against empty input
 # clarify the control flow
+# keep defaults in sync with the manifest
